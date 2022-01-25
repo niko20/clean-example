@@ -1,0 +1,25 @@
+.counter {
+    margin-bottom: 8px;
+}
+.title {
+    color: black;
+    margin-bottom: 6px;
+}
+.counterContainer {
+    display:flex;
+    gap: 15px;
+}
+.button {
+    border-radius: 8px;
+    padding: 6px;
+    background-color: #dc2626;
+    color: white;
+}
+.value {
+    color: black;
+    font-size: 19px;
+    
+}
+.key {
+
+}

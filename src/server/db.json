@@ -1,0 +1,9 @@
+{
+  "counters": [
+    { "id": 1, "name": "Counter Example", "count": 12},
+    { "id": 2, "name": "Counter Example 2", "count": 12},
+    { "id": 3, "name": "Counter Example 3", "count": 12},
+    { "id": 4, "name": "Counter Example 4", "count": 12},
+    { "id": 5, "name": "Counter Example 5", "count": 12}
+  ]
+}
